@@ -1,0 +1,29 @@
+img{
+height:203px;
+width: 360px;
+float: right;
+}
+
+
+iframe{
+width: auto;
+height:200px;
+
+}
+h2{
+text-align: center;
+color:darkblue;
+font-size:25px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+font{
+text-align:left;
+font-family: 'Courier New', Courier, monospace;
+color: black;
+
+}
+
+body{
+font-size:15px;
+background-color: orange;
+}
